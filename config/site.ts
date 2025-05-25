@@ -10,13 +10,12 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "Next Mobbin Clone",
-  description:
-    "An ui colorgen application built to help you with color setup in shadcn/ui.",
-  url: "https://next-mobbin-clone.app",
-  ogImage: "https://next-mobbin-clone.app/og.jpg",
+  name: "AI Prompt Library",
+  description: "A comprehensive library of AI prompts for different language models",
+  url: "https://ai-prompt-library.app",
+  ogImage: "https://ai-prompt-library.app/og.jpg",
   links: {
-    twitter: "https://twitter.com/miickasmt",
-    github: "https://github.com/mickasmt/next-mobbin-clone",
+    twitter: "https://twitter.com/yourhandle",
+    github: "https://github.com/yourusername/ai-prompt-library",
   },
 };
